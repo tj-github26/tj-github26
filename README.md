@@ -157,12 +157,9 @@ I am currently interested in opportunities in:
 
 ## 📫 Connect With Me  
 
-📧 taranjot2601@gmail.com  
-🌐 taranjotsingh.dev  
-💼 LinkedIn  
-💻 GitHub  
-🧠 LeetCode  
-
+📧 [taranjot2601@gmail.com](mailto:taranjot2601@gmail.com)  
+🌐 [taranjotsingh.dev](https://taranjotsingh.dev)  
+💼 [LinkedIn](https://www.linkedin.com/in/taranjot-singh-61915026a/)
 ---
 
 ⭐ Always open to collaborating on backend systems, cloud-native applications, and scalable SaaS platforms.
